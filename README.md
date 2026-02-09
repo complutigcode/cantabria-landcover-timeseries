@@ -6,9 +6,6 @@ This repository contains the land cover classification of the **Cantabria region
 
 ## Repository Contents
 
-- `cantabria-S2_2021_LC.tif`  
-  Original raster with land cover classification (values 1-4: Pasture, Shrubland, Forest, Others).
-
 - `cantabria-S2_2021_LC_UTM32630_meta.tif`  
   Raster reprojected to **EPSG:32630 (WGS84 / UTM zone 30N)** with added metadata:
   - Reference date: 2021  
@@ -17,7 +14,7 @@ This repository contains the land cover classification of the **Cantabria region
   - Coordinate system: EPSG:32630  
   - Region: Cantabria  
 
-- `cantabria-S2_2021_LC_UTM32630.shp`  
+- `2021/cantabria-S2_2021_LC_UTM32630.shp`  
   Shapefile generated from the raster, containing the following fields:
   - `id`: Unique identifier  
   - `Clase_lc`: Land cover class name (Pasture, Shrubland, Forest, Others)  
