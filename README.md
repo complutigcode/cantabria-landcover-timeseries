@@ -1,6 +1,6 @@
 # Land Cover - Cantabria
 
-This repository contains the land cover classification of the **Cantabria region (Spain)**, based on **Sentinel-2 imagery from 2021**. The data have been processed and reprojected for geospatial analysis and area calculation in metric units.
+This repository contains the land cover classification of the **Cantabria region (Spain)**, based on **Sentinel-2 imagery from 2021 to 2024**. The data have been processed and reprojected for geospatial analysis and area calculation in metric units.
 
 ---
 
